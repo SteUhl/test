@@ -34,6 +34,9 @@
     <loc>https://quarto-publishing.github.io/NA/aio.html</loc>
   </url>
   <url>
+    <loc>https://quarto-publishing.github.io/NA/citation.html</loc>
+  </url>
+  <url>
     <loc>https://quarto-publishing.github.io/NA/images.html</loc>
   </url>
   <url>
@@ -71,6 +74,9 @@
   </url>
   <url>
     <loc>https://quarto-publishing.github.io/NA/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://quarto-publishing.github.io/NA/instructor/citation.html</loc>
   </url>
   <url>
     <loc>https://quarto-publishing.github.io/NA/instructor/images.html</loc>
