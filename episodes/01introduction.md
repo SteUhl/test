@@ -25,9 +25,9 @@ exercises: 0
 
 ## What is Quarto?
 
-There are many differnt environments used for the writing, editing and publishing of scientific papers and data. Ech offers a different emphasis on different features, quality of life improvments and backgrounds.
-The right tools and environment are essention for a clean and effective workflow. Quarto stands as an effective allrounder when it comes to the different stages and functionalities needed in the creatin of scientfic papers.
-Quarto is a free, open-source tool, made with the purpose of refining and improving the creation of technical and scientific documents. It utilized a plethora of integrated options, that create an environment where users can create multi-format documents, that can be easily converted between MSWord, HTML or LaTeX. 
+There are many differnt environments used for the writing, editing and publishing of scientific papers and data. Each offers a different emphasis on different features, quality of life improvments and backgrounds.
+The right tools and environment are essential for a clean and effective workflow. Quarto stands as an effective allrounder when it comes to the different stages and functionalities needed in the creation of scientfic papers.
+Quarto is a free, open-source tool, made with the purpose of refining and improving the creation of technical and scientific documents. It utilizes a plethora of integrated options, that create an environment where users can create multi-format documents, that can be easily converted between MSWord, HTML or LaTeX. 
 The wide array of integrated functions, such as the implementation of code and visulizations, the easy convertability of documents and the integrated citation management system offer the user a concise and easy to understand working environment.
 
 ::: callout
