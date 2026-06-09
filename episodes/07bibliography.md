@@ -31,7 +31,8 @@ For this part of the lesson, we will switch from Source Mode to Visual Mode, in 
 
 Footnotes offer an easy way to add useful information or literature to your text. 
 They can be implemented into your Quarto document by using the Insert -> Footnotes option in the Visual Mode of Quarto.
-![](https://pad.zdv.net/uploads/824de089-c707-4076-bd50-3c2c8fe24fe6.png)
+<img style="float: right;" src="https://pad.zdv.net/uploads/824de089-c707-4076-bd50-3c2c8fe24fe6.png">
+
 
 Once selected you can add your information to the text box that appeared in the bottom of your screen.
 ![](https://pad.zdv.net/uploads/f69b9028-a0a5-4a94-b84e-b8d52cfdc40d.png)
